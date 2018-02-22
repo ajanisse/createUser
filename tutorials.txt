@@ -1,0 +1,7 @@
+Tutorials
+
+php mail function
+http://php.net/manual/en/function.mail.php 
+
+Random String
+https://stackoverflow.com/questions/5438760/generate-random-5-characters-string
